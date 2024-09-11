@@ -1,5 +1,5 @@
 body {
-    background: url(./BG4.png);background-repeat:repeat;background-size: cover;
+    background: url(/BG4.png);background-repeat:repeat;background-size: cover;
 	background-size: 80% auto;
    
     background-position: 1% 1%;
@@ -555,7 +555,7 @@ iframe {
 #update-input:checked ~ #background {
     background-color: black;
     background-repeat: no-repeat;
-    background-image: url(./BG3.jpeg);background-repeat:repeat;background-size: cover;
+    background-image: url(/BG3.jpeg);background-repeat:repeat;background-size: cover;
 	background-size: 80% auto;
     
 }
@@ -1355,7 +1355,7 @@ textarea:focus {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(./sc.png);
+    background-image: url(/sc.png);
       background-size: 50% auto;
     cursor: pointer;
     z-index: 99999999999;
